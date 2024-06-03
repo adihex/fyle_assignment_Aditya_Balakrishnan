@@ -36,3 +36,5 @@ yarn.lock
 # Ignore cache and dependency directories
 .cache/
 .bower/
+
+src/popup_form.html
